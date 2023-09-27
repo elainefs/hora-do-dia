@@ -12,7 +12,7 @@
 </div>
 
 ## 📘 Sobre
-Site que mostra a hora, os minutos e os segundos baseados nas informações do sistema do usuário.
+Site que mostra a hora atual baseado nas informações do sistema do usuário. As imagens e cores mudam de acordo com o período do dia.
 
 ## 💻 Tecnologias
 - HTML5
