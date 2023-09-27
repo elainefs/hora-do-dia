@@ -3,7 +3,6 @@
 }
 
 body {
-  background: rgb(7, 7, 109);
   font: normal 20px Arial;
 }
 
@@ -38,5 +37,17 @@ footer {
 }
 
 footer p > a {
- color: var(--light-color);
+  color: var(--light-color);
+}
+
+@media screen and (max-width: 576px) {
+  section {
+    max-width: 300px;
+    width: 300px;
+  }
+
+  img {
+    width: 250px;
+    margin: auto;
+  }
 }
